@@ -12,18 +12,16 @@ pip install -r requirements.txt
 
 ```
 
-```
+
 
 ## It will take time to install all dependencies and ResNet50 model
 
-```
+
 
 ```
 python app.py
 
 ```
 
-```
-Open Browser and type http://localhost:5000
+## Open Browser and type http://localhost:5000
 
-```
