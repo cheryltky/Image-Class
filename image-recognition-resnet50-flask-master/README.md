@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 ```
 
-It will take time to install all dependencies and ResNet50 model
+## It will take time to install all dependencies and ResNet50 model
 
 ```
 
